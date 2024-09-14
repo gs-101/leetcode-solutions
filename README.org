@@ -15,12 +15,12 @@ At the bottom of the code, [[https://www.geeksforgeeks.org/time-complexity-and-s
 
 * Languages
 
-** [[./c][C]]
+** [[./languages/c][C]]
 
-** [[./cpp][C++]]
+** [[./languages/cpp][C++]]
 
-** [[./java][Java]]
+** [[./languages/java][Java]]
 
-** [[./python3][Python]]
+** [[./languages/python3][Python]]
 
-** [[./rust][Rust]]
+** [[./languages/rust][Rust]]
