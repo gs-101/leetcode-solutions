@@ -12,6 +12,7 @@
 This is my personal repository containing [[https://leetcode.com][leetcode]] solutions.
 If I couldn't solve it by myself, I added the source of the solution to the top of the code in a comment.
 At the bottom of the code, [[https://www.geeksforgeeks.org/time-complexity-and-space-complexity/][time and space complexities]] are described (if I or someone else could).
+All of these are solved within [[https://www.gnu.org/software/emacs/][Emacs]] using [[https://github.com/kaiwk/leetcode.el][leetcode.el]].
 
 * Languages
 
